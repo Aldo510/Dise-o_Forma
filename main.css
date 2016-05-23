@@ -1,0 +1,68 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+.content{
+  margin-top: 80px;
+  background-color: #CCCCCC;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  text-align: center; 
+  margin-bottom: 80px;
+}
+/*Aqui va el estilo para el boton de registro*/
+#registration_btn{
+  background-color: #1F8DD2;
+  width: 100%;
+  border-radius: 10px;
+}
+#registration_name{
+  width: 48%;
+  height: 30px;
+}
+#registration_email{
+  width: 49%;
+  height: 30px;
+}
+#registration_phone{
+  margin-top: 30px;
+  width: 100%;
+  margin-bottom: 30px;
+  border-radius: 0px;
+  height: 30px;
+}
+#text{
+  width: 100%;
+  border-radius: 10px;
+  border: 0px solid #cccccc;
+  resize: none;
+  height: 200px;
+  margin-top: 20px;
+  height: 200px;
+}
+nav{
+  background-color: #999999;
+  margin-top: -22px;
+  height: 30px;
+}
+nav li{
+  display: inline-block;
+  color: white;
+  padding-left: 83px;
+  font-size: 20px;
+}
+.footer{
+  font-style: italic;
+  font-size: 20px;
+}
